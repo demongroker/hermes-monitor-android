@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit
 /**
  * Minimal Mission Control API client.
  * Auth: POST /api/login {"token": ...} returns an HttpOnly session cookie;
- * a Bearer <token> header is also accepted on every /api/* call.
+ * a Bearer <token> header is also accepted on every API call.
  */
 object Api {
 
