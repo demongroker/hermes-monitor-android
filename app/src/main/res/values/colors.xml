@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#FF0B1220</color>
+    <color name="navy_panel">#FF121B2E</color>
+    <color name="gold">#FFD4AF37</color>
+    <color name="text_primary">#FFE8EDF5</color>
+    <color name="text_muted">#FF8A94A6</color>
+    <color name="danger">#FFE5484D</color>
+    <color name="ok">#FF3FB950</color>
+</resources>
